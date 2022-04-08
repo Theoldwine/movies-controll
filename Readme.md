@@ -1,5 +1,2 @@
-# Instruções de uso
+# Criação database de filmes e séries para o bootcamp Cognizant Cloud Data Engineer 2 da DIO.
 
-- Instalar componentes do backend e frontend (npm i)
-- Backend na porta 5000
-- Frontend na porta 3000
